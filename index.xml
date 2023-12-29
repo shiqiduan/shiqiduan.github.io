@@ -10,9 +10,9 @@
     <atom:link href="https://shiqiduan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myfirstpost</title>
-      <link>https://shiqiduan.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AApost/</link>
+      <link>https://shiqiduan.github.io/posts/myfirstpost/</link>
       <pubDate>Fri, 29 Dec 2023 10:45:36 +0800</pubDate>
-      <guid>https://shiqiduan.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AApost/</guid>
+      <guid>https://shiqiduan.github.io/posts/myfirstpost/</guid>
       <description>This is some content&#xA;public static void main(String[] args) { System.out.println(&amp;#34;This is a print statement&amp;#34;); } </description>
     </item>
   </channel>
